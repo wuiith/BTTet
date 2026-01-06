@@ -1,0 +1,43 @@
+
+.content {
+    background-color: #0F172A;
+    color: #CBD5E1;
+}
+
+div {
+    display: inline-block;
+}
+
+.skill {
+    border: 2px solid #1E293B;
+    width: 250px;
+    margin: 50px;
+}
+
+.softskill {
+    border: 2px solid #1E293B;
+    width: 250px;
+    margin: 50px;
+}
+
+.header {
+    text-align: center;
+    border: 2px solid pink;
+    width: 500px;
+    height: 120px;
+    position: relative;
+    
+    transition: all 0.5s ease-in;
+}
+
+.header:hover {
+    text-align: center;
+    width: 500px;
+    border-radius: 200px;
+    transform: translate(500px);
+}
+
+h3 {
+    color: aqua;
+}
+
